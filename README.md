@@ -6,6 +6,11 @@
 
 It is summarized TAO Green Paper
 
+[TEO Breif Whitepaper and Exchange Application](https://github.com/tao-foundation/tao-materials/blob/master/TEO%20Whitepaper-n-exchange-appliance-v0.921.pdf)
+
+It is brief TEO Whitepaper and Exchange application documents.
+
+
 ## TAO / TEO UX materials (icon,favicon,png)
 
 All subset material of TAO , is updated on this directory.
