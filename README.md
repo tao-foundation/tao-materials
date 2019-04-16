@@ -5,6 +5,7 @@
 [Tokenizeit Sep.2018 Conference Speaking PPT](https://github.com/tao-foundation/tao-materials/blob/master/TAO-Hybridblockchain-for-IoE-AI-Creativity-Tokenizeit1.pdf)
 
 It is summarized TAO Green Paper
+
 If you want to early access of TAO Greepaper full documents, please request contacts listed in bottom.
 
 [TEO Breif Whitepaper and Exchange Application](https://github.com/tao-foundation/tao-materials/blob/master/TEO%20Whitepaper-n-exchange-appliance-v0.921.pdf)
