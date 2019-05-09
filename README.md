@@ -28,8 +28,9 @@ Following pdf document will explain , how to trade it.
 Before trade, you can learn create wallet , how to send , how to receive, with https://wallet.tao.foundation .
 
 it is described well in TAO Korea Official forum : 
-초보자를 위한 사용법 : https://www.blockchainhub.kr/bbs/board.php?bo_table=tao&wr_id=75 
-송금/입금 의 확인은 https://explorer.tao.foundation 에서 지갑주소를 넣거나 거래ID를 넣어서 확인할수있습니다.
+
+- 초보자를 위한 사용법 : https://www.blockchainhub.kr/bbs/board.php?bo_table=tao&wr_id=75 
+- 송금/입금 의 확인은 https://explorer.tao.foundation 에서 지갑주소를 넣거나 거래ID를 넣어서 확인할수있습니다.
 
 
 ## CC1 , contact information.
