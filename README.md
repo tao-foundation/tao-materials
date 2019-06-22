@@ -1,5 +1,9 @@
 # TAO - materials
 
+## TAO GreenPaper Wordformat Full description [KOR]
+
+[TAO 녹서 (GreenPaper) full version PDF](https://github.com/tao-foundation/tao-materials/blob/master/TAO-%EB%85%B9%EC%84%9C(GreenPaper)-V0.94-KOR.pdf)
+
 ## TAO GreenPaper Abstaction
 
 [Tokenizeit Sep.2018 Conference Speaking PPT](https://github.com/tao-foundation/tao-materials/blob/master/TAO-Hybridblockchain-for-IoE-AI-Creativity-Tokenizeit1.pdf)
